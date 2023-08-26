@@ -25,3 +25,5 @@ I'm an Informatics Engineering Student at UBAYA (Currently in 5th Semester) and 
 
 ## My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stevennchristopher&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+I am editing the README file. Adding some more details about the project description.
