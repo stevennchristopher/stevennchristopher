@@ -16,7 +16,7 @@ I'm an Informatics Engineering Student at UBAYA (Currently in 6th Semester) and 
 | Application | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)|
 | Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)|
 | UI & UX Experience | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)| 
-| Machine Learning | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+| Machine Learning | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)| ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
 ## My Stats
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stevennchristopher&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stevennchristopher&langs_count=8&layout=compact&hide_border=true&theme=radical">
