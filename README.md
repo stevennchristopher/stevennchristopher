@@ -3,7 +3,7 @@
 
 I'm an Informatics Engineering Student at UBAYA (Currently in 6th Semester) and like to learn new things.
 ## Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stevennchristopher) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stevenchristt_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevennchristopher) 
 
 ## My Abilities
